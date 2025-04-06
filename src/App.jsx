@@ -9,7 +9,7 @@ const App = () => {
 
   return (
     <div>
-      <button onClick={handleClick}> Click Me </button>
+      <button onClick={handleClick}> Click </button>
       <h1> {count} </h1>
     </div>
   );
